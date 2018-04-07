@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.login.LogOutActivity">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/nighttower"
+        android:paddingTop="56dp"
+        android:paddingLeft="24dp"
+        android:paddingRight="24dp">
+
+        <TextView
+            android:text="Are you sure you want to logout?"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="74dp"
+            android:id="@+id/logouttext"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:textColor="#ffffff"/>
+
+        <Button
+            android:id="@+id/LogoutBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:layout_below="@+id/logouttext"
+            android:layout_alignStart="@+id/logouttext"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="46dp"
+            android:padding="12dp"
+            android:onClick="logOutSubmit"
+            android:text="log Out"/>
+
+        <Button
+            android:id="@+id/CancelBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/logouttext"
+            android:layout_alignTop="@+id/LogoutBtn"
+            android:layout_marginStart="25dp"
+            android:layout_marginEnd="46dp"
+            android:layout_weight="0.5"
+            android:onClick="cancelSubmit"
+            android:text="Cancel" />
+
+    </RelativeLayout>
+
+
+
+</RelativeLayout>
