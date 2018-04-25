@@ -9,7 +9,7 @@ Wiki Page: https://github.com/vmanvitha3/MobileProgrammingLabAssignments/wiki/La
 
 Assignment 2:
 
-Source Code & Documentation: 
+Source Code & Documentation: https://github.com/vmanvitha3/MobileProgrammingLabAssignments/tree/master/Lab2
 
 Wiki Page: https://github.com/vmanvitha3/MobileProgrammingLabAssignments/wiki/LabAssignment2
 
