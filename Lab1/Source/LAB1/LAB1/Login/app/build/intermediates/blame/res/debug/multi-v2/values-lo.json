@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Prasanna\\Documents\\AndroidExercises\\LAB1\\LAB1\\Login\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lo\\values-lo.xml",
+            "outputFile": "C:\\Users\\Prasanna\\Documents\\GitHub\\MobileProgrammingLabAssignments\\Lab1\\Source\\LAB1\\LAB1\\Login\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lo\\values-lo.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Prasanna\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\0b6047d9254faa3da036eaf6de9e521b\\res\\values-lo\\values.xml",

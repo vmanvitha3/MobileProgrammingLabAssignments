@@ -1,19 +1,19 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:2:1-40:12
+ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:2:1-40:12
 MERGED from [com.android.support:design:27.1.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\beb44831d604bf18748467d6153df1e0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.android:facebook-android-sdk:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.31.0.aar\c79ccde8b8c8e6b9e96e794dd6ccf294\AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-login:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-login-4.31.0.aar\622c6c1a0728f9b548473c1de6baaead\AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-share:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-share-4.31.0.aar\591d40c4044025dd8d57a47a447031d3\AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-common:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\c6fc5da9441fc355d8a9598082a4dfd7\AndroidManifest.xml:21:1-36:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.32.0.aar\35a10e9841242d4bfefc3b2a93fcb80b\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-login-4.32.0.aar\c4424d1f2294f6a5297e9a3ae90cc099\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-share-4.32.0.aar\e88d5990d73614496a45556a5b5aaf56\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-common-4.32.0.aar\90d6801946346047cd66f1a02e998d6a\AndroidManifest.xml:21:1-36:12
 MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\9e611d4d22abbdde06b5a4383837dc97\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\87ed4c5ede32d063ba15fa5a75d6e8b7\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\64153bbc388280be96a8848f43e8eecf\AndroidManifest.xml:17:1-39:12
 MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\cf9d752c94b43fa46a0a74296e18fdcc\AndroidManifest.xml:2:1-13:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\afcbd566cc34ffc1c87642a45ac061ea\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\dfebf15bce336ec9b57a35c0eefd1af6\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\6dd5a573eddb6e332330eaccc701661f\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\7c8ff15fc9b85ccbf46257c5f54b34a9\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.8.0.aar\4ac8a5d9b702d4d72124ec470f2858f2\AndroidManifest.xml:2:1-7:12
@@ -24,10 +24,10 @@ MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Pras
 MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\e6eab5f3aebf25cfedf834561d454815\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\362d424a5557634e99f0562a98e90c6a\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\213d868a5e651460db4a7d7ce8380d27\AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.android:facebook-places:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-places-4.31.0.aar\a520863a77d7be225f01d17bb3a1b13e\AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-applinks:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.31.0.aar\28fe23b47f4da3f96e4fabcc4ce342c3\AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-messenger:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.31.0.aar\0faf821126c91898e4d0fc82a6d29a46\AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-core:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-core-4.31.0.aar\61de981cc34a2deff3ac4a6ac707540a\AndroidManifest.xml:21:1-45:12
+MERGED from [com.facebook.android:facebook-places:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-places-4.32.0.aar\764d3e27fd90b1ac0543f6abd0fb4104\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.32.0.aar\b6a1b908d69b4199931c249eebf5d2cb\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.32.0.aar\9a5a075b6cfa0435d1d9bb0649f574dd\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-core:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-core-4.32.0.aar\27b797ba32ba3471d224a128a6d00b9c\AndroidManifest.xml:21:1-45:12
 MERGED from [com.android.support:transition:27.1.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\04cf9bde369e15966eac8648d2ba4e49\AndroidManifest.xml:17:1-22:12
 MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\0906a00a1b4e8cef96e9b7dd20ef0e17\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\cd946f4c02d9176790ac966fdd646b67\AndroidManifest.xml:17:1-22:12
@@ -44,57 +44,57 @@ MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Prasanna\.gradle\cac
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\22e1a135c32d5c6e7713d2973c3f01a3\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4705118deddcea86e816ec89bad6fd7f\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c16f79186d24a5eb80ebe2d338352e66\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:2:1-40:12
 	package
-		ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:3:5-40
-		INJECTED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:2:1-40:12
-		INJECTED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:2:1-40:12
-		INJECTED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:7:5-38:19
-MERGED from [com.facebook.android:facebook-android-sdk:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.31.0.aar\c79ccde8b8c8e6b9e96e794dd6ccf294\AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-android-sdk:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.31.0.aar\c79ccde8b8c8e6b9e96e794dd6ccf294\AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-login:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-login-4.31.0.aar\622c6c1a0728f9b548473c1de6baaead\AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-login:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-login-4.31.0.aar\622c6c1a0728f9b548473c1de6baaead\AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-share:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-share-4.31.0.aar\591d40c4044025dd8d57a47a447031d3\AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-share:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-share-4.31.0.aar\591d40c4044025dd8d57a47a447031d3\AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-common:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\c6fc5da9441fc355d8a9598082a4dfd7\AndroidManifest.xml:28:5-34:19
-MERGED from [com.facebook.android:facebook-common:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\c6fc5da9441fc355d8a9598082a4dfd7\AndroidManifest.xml:28:5-34:19
+ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:7:5-38:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.32.0.aar\35a10e9841242d4bfefc3b2a93fcb80b\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.32.0.aar\35a10e9841242d4bfefc3b2a93fcb80b\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-login-4.32.0.aar\c4424d1f2294f6a5297e9a3ae90cc099\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-login-4.32.0.aar\c4424d1f2294f6a5297e9a3ae90cc099\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-share-4.32.0.aar\e88d5990d73614496a45556a5b5aaf56\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-share-4.32.0.aar\e88d5990d73614496a45556a5b5aaf56\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-common-4.32.0.aar\90d6801946346047cd66f1a02e998d6a\AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-common:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-common-4.32.0.aar\90d6801946346047cd66f1a02e998d6a\AndroidManifest.xml:28:5-34:19
 MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\64153bbc388280be96a8848f43e8eecf\AndroidManifest.xml:22:5-37:19
 MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\64153bbc388280be96a8848f43e8eecf\AndroidManifest.xml:22:5-37:19
 MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\cf9d752c94b43fa46a0a74296e18fdcc\AndroidManifest.xml:11:5-20
 MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\cf9d752c94b43fa46a0a74296e18fdcc\AndroidManifest.xml:11:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\afcbd566cc34ffc1c87642a45ac061ea\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\afcbd566cc34ffc1c87642a45ac061ea\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\dfebf15bce336ec9b57a35c0eefd1af6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\dfebf15bce336ec9b57a35c0eefd1af6\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\a0204361bf451d29106c296360411774\AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\a0204361bf451d29106c296360411774\AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\fa2bfdba1e95a067798cb8191e981864\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\fa2bfdba1e95a067798cb8191e981864\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\0b6047d9254faa3da036eaf6de9e521b\AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\0b6047d9254faa3da036eaf6de9e521b\AndroidManifest.xml:22:5-26:19
-MERGED from [com.facebook.android:facebook-places:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-places-4.31.0.aar\a520863a77d7be225f01d17bb3a1b13e\AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-places:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-places-4.31.0.aar\a520863a77d7be225f01d17bb3a1b13e\AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-applinks:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.31.0.aar\28fe23b47f4da3f96e4fabcc4ce342c3\AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-applinks:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.31.0.aar\28fe23b47f4da3f96e4fabcc4ce342c3\AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-messenger:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.31.0.aar\0faf821126c91898e4d0fc82a6d29a46\AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-messenger:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.31.0.aar\0faf821126c91898e4d0fc82a6d29a46\AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-core:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-core-4.31.0.aar\61de981cc34a2deff3ac4a6ac707540a\AndroidManifest.xml:28:5-43:19
-MERGED from [com.facebook.android:facebook-core:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-core-4.31.0.aar\61de981cc34a2deff3ac4a6ac707540a\AndroidManifest.xml:28:5-43:19
+MERGED from [com.facebook.android:facebook-places:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-places-4.32.0.aar\764d3e27fd90b1ac0543f6abd0fb4104\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-places-4.32.0.aar\764d3e27fd90b1ac0543f6abd0fb4104\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.32.0.aar\b6a1b908d69b4199931c249eebf5d2cb\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.32.0.aar\b6a1b908d69b4199931c249eebf5d2cb\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.32.0.aar\9a5a075b6cfa0435d1d9bb0649f574dd\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.32.0.aar\9a5a075b6cfa0435d1d9bb0649f574dd\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-core-4.32.0.aar\27b797ba32ba3471d224a128a6d00b9c\AndroidManifest.xml:28:5-43:19
+MERGED from [com.facebook.android:facebook-core:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-core-4.32.0.aar\27b797ba32ba3471d224a128a6d00b9c\AndroidManifest.xml:28:5-43:19
 MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\0906a00a1b4e8cef96e9b7dd20ef0e17\AndroidManifest.xml:9:5-20
 MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\0906a00a1b4e8cef96e9b7dd20ef0e17\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.8.0.aar\1f6c06daa15dd1f3d7e365393c6c6363\AndroidManifest.xml:5:5-20
@@ -108,83 +108,83 @@ MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Us
 MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\e7e77ae5240c08353d37ba8a2d179276\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\e7e77ae5240c08353d37ba8a2d179276\AndroidManifest.xml:5:5-20
 	android:supportsRtl
-		ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:10:9-41
 	android:roundIcon
-		ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:11:9-54
 	android:icon
-		ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:13:9-40
+		ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:13:9-40
 meta-data#com.facebook.sdk.ApplicationId
-ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:14:9-16:55
+ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:14:9-16:55
 	android:value
-		ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:16:13-52
+		ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:16:13-52
 	android:name
-		ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:15:13-58
+		ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:15:13-58
 activity#com.example.android.login.MainActivity
-ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:18:9-24:20
+ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:18:9-24:20
 	android:name
-		ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:18:19-47
+		ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:18:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:19:13-23:29
+ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:20:17-69
+ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:20:25-66
+		ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:22:17-77
+ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:22:27-74
+		ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:22:27-74
 activity#com.example.android.login.HomeActivity
-ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:30:9-50
+ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:30:9-50
 	android:name
-		ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:30:19-47
+		ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:30:19-47
 activity#com.example.android.login.PasswordRecovery
-ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:31:9-54
+ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:31:9-54
 	android:name
-		ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:31:19-51
+		ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:31:19-51
 activity#com.example.android.login.LoginPageActivity
-ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:32:9-55
+ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:32:9-55
 	android:name
-		ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:32:19-52
+		ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:32:19-52
 activity#com.example.android.login.RegisterAccountActivity
-ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:33:9-61
+ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:33:9-61
 	android:name
-		ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:33:19-58
+		ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:33:19-58
 activity#com.example.android.login.HelpPageActivity
-ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:34:9-54
+ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:34:9-54
 	android:name
-		ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:34:19-51
+		ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:34:19-51
 activity#com.example.android.login.SettingsPageActivity
-ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:35:9-58
+ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:35:9-58
 	android:name
-		ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:35:19-55
+		ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:35:19-55
 activity#com.example.android.login.LogOutActivity
-ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:36:9-52
+ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:36:9-52
 	android:name
-		ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:36:19-49
+		ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:36:19-49
 activity#com.example.android.login.HomeActivity2
-ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:37:9-60
+ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:37:9-60
 	android:name
-		ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:37:19-48
+		ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml:37:19-48
 uses-sdk
-INJECTED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml
 MERGED from [com.android.support:design:27.1.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\beb44831d604bf18748467d6153df1e0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:27.1.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\beb44831d604bf18748467d6153df1e0\AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.android:facebook-android-sdk:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.31.0.aar\c79ccde8b8c8e6b9e96e794dd6ccf294\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-android-sdk:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.31.0.aar\c79ccde8b8c8e6b9e96e794dd6ccf294\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-login:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-login-4.31.0.aar\622c6c1a0728f9b548473c1de6baaead\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-login:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-login-4.31.0.aar\622c6c1a0728f9b548473c1de6baaead\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-share:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-share-4.31.0.aar\591d40c4044025dd8d57a47a447031d3\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-share:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-share-4.31.0.aar\591d40c4044025dd8d57a47a447031d3\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-common:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\c6fc5da9441fc355d8a9598082a4dfd7\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-common:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\c6fc5da9441fc355d8a9598082a4dfd7\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.32.0.aar\35a10e9841242d4bfefc3b2a93fcb80b\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.32.0.aar\35a10e9841242d4bfefc3b2a93fcb80b\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-login-4.32.0.aar\c4424d1f2294f6a5297e9a3ae90cc099\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-login-4.32.0.aar\c4424d1f2294f6a5297e9a3ae90cc099\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-share-4.32.0.aar\e88d5990d73614496a45556a5b5aaf56\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-share-4.32.0.aar\e88d5990d73614496a45556a5b5aaf56\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-common-4.32.0.aar\90d6801946346047cd66f1a02e998d6a\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-common-4.32.0.aar\90d6801946346047cd66f1a02e998d6a\AndroidManifest.xml:24:5-26:41
 MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\9e611d4d22abbdde06b5a4383837dc97\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\9e611d4d22abbdde06b5a4383837dc97\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\87ed4c5ede32d063ba15fa5a75d6e8b7\AndroidManifest.xml:20:5-44
@@ -193,8 +193,8 @@ MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Prasanna
 MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\64153bbc388280be96a8848f43e8eecf\AndroidManifest.xml:20:5-44
 MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\cf9d752c94b43fa46a0a74296e18fdcc\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\cf9d752c94b43fa46a0a74296e18fdcc\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\afcbd566cc34ffc1c87642a45ac061ea\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\afcbd566cc34ffc1c87642a45ac061ea\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\dfebf15bce336ec9b57a35c0eefd1af6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\dfebf15bce336ec9b57a35c0eefd1af6\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\6dd5a573eddb6e332330eaccc701661f\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\6dd5a573eddb6e332330eaccc701661f\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\7c8ff15fc9b85ccbf46257c5f54b34a9\AndroidManifest.xml:20:5-44
@@ -215,14 +215,14 @@ MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Prasanna\.gra
 MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\362d424a5557634e99f0562a98e90c6a\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\213d868a5e651460db4a7d7ce8380d27\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\213d868a5e651460db4a7d7ce8380d27\AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.android:facebook-places:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-places-4.31.0.aar\a520863a77d7be225f01d17bb3a1b13e\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-places:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-places-4.31.0.aar\a520863a77d7be225f01d17bb3a1b13e\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-applinks:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.31.0.aar\28fe23b47f4da3f96e4fabcc4ce342c3\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-applinks:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.31.0.aar\28fe23b47f4da3f96e4fabcc4ce342c3\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-messenger:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.31.0.aar\0faf821126c91898e4d0fc82a6d29a46\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-messenger:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.31.0.aar\0faf821126c91898e4d0fc82a6d29a46\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-core:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-core-4.31.0.aar\61de981cc34a2deff3ac4a6ac707540a\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-core:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-core-4.31.0.aar\61de981cc34a2deff3ac4a6ac707540a\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-places-4.32.0.aar\764d3e27fd90b1ac0543f6abd0fb4104\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-places-4.32.0.aar\764d3e27fd90b1ac0543f6abd0fb4104\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.32.0.aar\b6a1b908d69b4199931c249eebf5d2cb\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.32.0.aar\b6a1b908d69b4199931c249eebf5d2cb\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.32.0.aar\9a5a075b6cfa0435d1d9bb0649f574dd\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.32.0.aar\9a5a075b6cfa0435d1d9bb0649f574dd\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-core-4.32.0.aar\27b797ba32ba3471d224a128a6d00b9c\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-core-4.32.0.aar\27b797ba32ba3471d224a128a6d00b9c\AndroidManifest.xml:24:5-26:41
 MERGED from [com.android.support:transition:27.1.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\04cf9bde369e15966eac8648d2ba4e49\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:27.1.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\04cf9bde369e15966eac8648d2ba4e49\AndroidManifest.xml:20:5-44
 MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\0906a00a1b4e8cef96e9b7dd20ef0e17\AndroidManifest.xml:5:5-7:41
@@ -255,28 +255,28 @@ MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Prasanna\.gradle\c
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4705118deddcea86e816ec89bad6fd7f\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c16f79186d24a5eb80ebe2d338352e66\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c16f79186d24a5eb80ebe2d338352e66\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Prasanna\Documents\AndroidExercises\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Prasanna\Documents\GitHub\MobileProgrammingLabAssignments\Lab1\Source\LAB1\LAB1\Login\app\src\main\AndroidManifest.xml
 activity#com.facebook.FacebookActivity
-ADDED from [com.facebook.android:facebook-common:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\c6fc5da9441fc355d8a9598082a4dfd7\AndroidManifest.xml:29:9-32:66
+ADDED from [com.facebook.android:facebook-common:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-common-4.32.0.aar\90d6801946346047cd66f1a02e998d6a\AndroidManifest.xml:29:9-32:66
 	android:configChanges
-		ADDED from [com.facebook.android:facebook-common:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\c6fc5da9441fc355d8a9598082a4dfd7\AndroidManifest.xml:31:13-96
+		ADDED from [com.facebook.android:facebook-common:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-common-4.32.0.aar\90d6801946346047cd66f1a02e998d6a\AndroidManifest.xml:31:13-96
 	android:theme
-		ADDED from [com.facebook.android:facebook-common:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\c6fc5da9441fc355d8a9598082a4dfd7\AndroidManifest.xml:32:13-63
+		ADDED from [com.facebook.android:facebook-common:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-common-4.32.0.aar\90d6801946346047cd66f1a02e998d6a\AndroidManifest.xml:32:13-63
 	android:name
-		ADDED from [com.facebook.android:facebook-common:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\c6fc5da9441fc355d8a9598082a4dfd7\AndroidManifest.xml:30:13-57
+		ADDED from [com.facebook.android:facebook-common:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-common-4.32.0.aar\90d6801946346047cd66f1a02e998d6a\AndroidManifest.xml:30:13-57
 activity#com.facebook.CustomTabMainActivity
-ADDED from [com.facebook.android:facebook-common:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\c6fc5da9441fc355d8a9598082a4dfd7\AndroidManifest.xml:33:9-71
+ADDED from [com.facebook.android:facebook-common:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-common-4.32.0.aar\90d6801946346047cd66f1a02e998d6a\AndroidManifest.xml:33:9-71
 	android:name
-		ADDED from [com.facebook.android:facebook-common:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\c6fc5da9441fc355d8a9598082a4dfd7\AndroidManifest.xml:33:19-68
+		ADDED from [com.facebook.android:facebook-common:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-common-4.32.0.aar\90d6801946346047cd66f1a02e998d6a\AndroidManifest.xml:33:19-68
 activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
 ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\64153bbc388280be96a8848f43e8eecf\AndroidManifest.xml:23:9-27:75
 	android:excludeFromRecents
@@ -310,10 +310,10 @@ ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Prasa
 	android:name
 		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\0b6047d9254faa3da036eaf6de9e521b\AndroidManifest.xml:24:13-58
 provider#com.facebook.internal.FacebookInitProvider
-ADDED from [com.facebook.android:facebook-core:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-core-4.31.0.aar\61de981cc34a2deff3ac4a6ac707540a\AndroidManifest.xml:39:9-42:40
+ADDED from [com.facebook.android:facebook-core:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-core-4.32.0.aar\27b797ba32ba3471d224a128a6d00b9c\AndroidManifest.xml:39:9-42:40
 	android:authorities
-		ADDED from [com.facebook.android:facebook-core:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-core-4.31.0.aar\61de981cc34a2deff3ac4a6ac707540a\AndroidManifest.xml:41:13-72
+		ADDED from [com.facebook.android:facebook-core:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-core-4.32.0.aar\27b797ba32ba3471d224a128a6d00b9c\AndroidManifest.xml:41:13-72
 	android:exported
-		ADDED from [com.facebook.android:facebook-core:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-core-4.31.0.aar\61de981cc34a2deff3ac4a6ac707540a\AndroidManifest.xml:42:13-37
+		ADDED from [com.facebook.android:facebook-core:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-core-4.32.0.aar\27b797ba32ba3471d224a128a6d00b9c\AndroidManifest.xml:42:13-37
 	android:name
-		ADDED from [com.facebook.android:facebook-core:4.31.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-core-4.31.0.aar\61de981cc34a2deff3ac4a6ac707540a\AndroidManifest.xml:40:13-70
+		ADDED from [com.facebook.android:facebook-core:4.32.0] C:\Users\Prasanna\.gradle\caches\transforms-1\files-1.1\facebook-core-4.32.0.aar\27b797ba32ba3471d224a128a6d00b9c\AndroidManifest.xml:40:13-70
