@@ -16,6 +16,6 @@ Wiki Page: https://github.com/vmanvitha3/MobileProgrammingLabAssignments/wiki/La
 
 Assignment 3:
 
-Source Code & Documentation: 
+Source Code & Documentation: https://github.com/vmanvitha3/MobileProgrammingLabAssignments/tree/master/Lab3
 
-Wiki Page: 
+Wiki Page: https://github.com/vmanvitha3/MobileProgrammingLabAssignments/wiki/LabAssignment3
