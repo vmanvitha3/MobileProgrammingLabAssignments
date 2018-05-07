@@ -37,6 +37,7 @@
         android:layout_alignParentBottom="true"
         android:layout_alignParentStart="true"
         android:layout_marginBottom="233dp"
+        android:weightSum="1"
         android:orientation="horizontal">
 
         <Button
@@ -46,15 +47,18 @@
             android:layout_marginLeft="70dp"
             android:layout_marginRight="20dp"
             android:onClick="listenQuestion"
+            android:layout_weight="0.5"
+            android:layout_gravity="center"
             android:text="Listen" />
 
-        <ImageButton
+        <ImageView
             android:id="@+id/speakBtn"
             android:src="@drawable/ic_microphone_2"
             android:layout_marginLeft="60dp"
             android:layout_marginRight="20dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_weight="0.5"
             android:onClick="speakAnswer"/>
     </LinearLayout>
 </RelativeLayout>
