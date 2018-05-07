@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab3Assignment</string>
+
+    <string-array name="topics">
+        <item>Country</item>
+        <item>Tourism</item>
+        <item>NASA</item>
+    </string-array>
+
+</resources>
